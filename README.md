@@ -32,8 +32,4 @@ An AI-powered web application that predicts possible diseases based on selected 
 - Support Vector Machine (SVM)
 - Naive Bayes
 
-## 📸 Project Preview
-
-![AI Healthcare Screenshot](health-disease.png)
-
 
